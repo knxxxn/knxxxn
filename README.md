@@ -1,7 +1,6 @@
 ### 👋 안녕하세요 김나은 입니다 :)
 
 
-#
 
 ## :sparkles: My Page :sparkles:
 <a href="https://velog.io/@nxxxn">
@@ -9,7 +8,6 @@
 </a> 
 
 
-#
 
 ## :sparkles: GitHub :sparkles:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knxxxn&show_icons=true&theme=radical)

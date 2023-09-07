@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knxxxn&hide_progress=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knxxxn&show_icons=true&theme=radical)
+[![knxxxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=knxxxn&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/knxxxn/github-readme-stats)
 

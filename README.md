@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@nxxxn"/>
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knxxxn&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knxxxn&layout=compact&theme=radical)
 
 [![knxxxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=knxxxn&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/knxxxn/github-readme-stats)
 

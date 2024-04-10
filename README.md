@@ -12,6 +12,5 @@
 ## :sparkles: GitHub :sparkles:
 ![knxxxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=knxxxn&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knxxxn&hide_progress=true&theme=radical)
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/><img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c++&logoColor=white"/>
